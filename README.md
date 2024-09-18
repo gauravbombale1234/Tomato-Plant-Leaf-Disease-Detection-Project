@@ -22,8 +22,8 @@ The **Tomato Plant Leaf Disease Detection and Treatment** project utilizes Convo
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Tomato-Plant-Leaf-Disease-Detection.git
-   cd Tomato-Plant-Leaf-Disease-Detection
+   git clone https://github.com/gauravbombale1234/Tomato-Plant-Leaf-Disease-Detection-Project.git
+   cd Tomato-Plant-Leaf-Disease-Detection-Project
    ```
 
 2. **Create a Virtual Environment**:
@@ -44,7 +44,7 @@ The **Tomato Plant Leaf Disease Detection and Treatment** project utilizes Convo
 
 1. **Run the Application**:
    ```bash
-   python app.py
+   python leaf.py
    ```
 
 2. **Upload an Image**:
